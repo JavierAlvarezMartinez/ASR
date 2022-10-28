@@ -9,7 +9,7 @@ En primer lugar se va a crear un clúster de K8s que sirva un servicio webserver
 
 Lo primer que se va a realizar es un gcloud init para conectarnos con el proyecto que tenemos en el cloud. La forma de realizarlo es la siguiente:
 
-!["Gcloud init"](ASR\P6\capturas\gcloud_init.png)
+!["Gcloud init"](capturas/gcloud_init.png)
 
 A continuación, se va a cargar la configuración inicial del clúster, almacenado en el fichero de configuración. La información de este fichero es la siguiente:
 
